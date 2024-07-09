@@ -1,0 +1,3 @@
+Put them into your home directory.
+Example:
+~/home/MrJavadGG/
