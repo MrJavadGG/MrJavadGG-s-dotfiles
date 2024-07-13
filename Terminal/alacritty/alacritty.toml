@@ -31,3 +31,5 @@ bindings = [
 { key = "S", mods = "Control|Alt", action = "Copy" },
 { key = "V", mods = "Control|Alt", action = "Paste" },
 ]
+
+
