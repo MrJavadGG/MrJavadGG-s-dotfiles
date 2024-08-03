@@ -1,9 +1,0 @@
-Put ".p10k.zsh" and ".zshrc" into your home directory.
-Example:
-~/home/MrJavadGG/
-
------------------------
-
-Put "alacritty" into your ".config" folder in "home" directory.
-Example:
-~/home/MrJavadGG/.config/

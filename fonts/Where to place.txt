@@ -1,0 +1,2 @@
+Put it in:
+~/home/.config/fontconfig/
